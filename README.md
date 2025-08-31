@@ -7,3 +7,5 @@ Analyzing Website Traffic Data involves examining visitor interactions with a we
 5. Traffic Trends – Comparing data over time to identify patterns and growth opportunities.  
 
 Common tools used: **Google Analytics, Matomo, Hotjar, SEMrush.**
+
+this is
